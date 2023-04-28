@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "BotionCaptcha-xcframework"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Botion SDK"
   s.homepage     = "https://www.botion.com"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
