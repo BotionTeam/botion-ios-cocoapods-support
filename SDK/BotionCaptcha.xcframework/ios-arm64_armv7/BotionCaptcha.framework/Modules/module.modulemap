@@ -1,0 +1,6 @@
+framework module BotionCaptcha {
+  umbrella header "BotionCaptcha.h"
+
+  export *
+  module * { export * }
+}
