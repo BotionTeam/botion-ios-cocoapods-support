@@ -79,7 +79,7 @@ NS_ASSUME_NONNULL_BEGIN
 ///               ```
 ///               {
 ///                 challenge = "19080ae5-fe79-4431-9c78-4ee8e0dec798";
-///                 captcha_id = "f46f146d6e611d0af5e51d5187e86f57";
+///                 captcha_id = "c62d0f270240799b3113b0a5787ead55";
 ///               }
 ///               ```
 - (void)botionCaptchaSession:(BotionCaptchaSession *)captchaSession

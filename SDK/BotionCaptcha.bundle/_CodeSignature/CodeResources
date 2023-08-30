@@ -4,87 +4,112 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/BOCError.h</key>
+		<key>boc-index.html</key>
 		<data>
-		bPC9zfVZEQJUvDS7PCLOphOgO9Q=
+		JpaI7GtX3gzwTeWd2L8odu1edE4=
 		</data>
-		<key>Headers/BotionCaptcha.h</key>
+		<key>boc-loading.gif</key>
 		<data>
-		B9eXBK/vySJC24hKkh1pbbS3ktw=
+		7qdcinTb8OYfPN0nA2yI49DGZ6A=
 		</data>
-		<key>Headers/BotionCaptchaSession.h</key>
+		<key>boc.js</key>
 		<data>
-		ypxtbD2e3NLMO17iwwfOGBSK/oY=
+		njv0kyHVUuwmd3qMbZv3FTD0e+8=
 		</data>
-		<key>Headers/BotionCaptchaSessionConfiguration.h</key>
+		<key>bypass.js</key>
 		<data>
-		98gzWyO2fXT9P2TVy54+RX1C70g=
+		eEhlKvtfluoLesY52B2WHfbzznE=
 		</data>
-		<key>Info.plist</key>
-		<data>
-		wSL5L2ANUQCmod1GYD4uzxF6RV8=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		uyZACAvhSONoD6ggTgZtHP0jpVE=
-		</data>
+		<key>en.lproj/BotionCaptcha.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HXXfsdTMxlkK4WQinEvCRVpXl6Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-CN.lproj/BotionCaptcha.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QvNaC4AFAUnqC10tok0Z0AAqwvE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/BOCError.h</key>
+		<key>boc-index.html</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bPC9zfVZEQJUvDS7PCLOphOgO9Q=
+			JpaI7GtX3gzwTeWd2L8odu1edE4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pgsp1kJ2Tg/j7ZGgVry6H5RAXDSFrhAD7tJ5/FYBupo=
+			5crM/12xL01AYRvWrLtfH4/Tp8iOPT71kXsJiZEiS+I=
 			</data>
 		</dict>
-		<key>Headers/BotionCaptcha.h</key>
+		<key>boc-loading.gif</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B9eXBK/vySJC24hKkh1pbbS3ktw=
+			7qdcinTb8OYfPN0nA2yI49DGZ6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			p3ptH66ZT9vigrxtE9rNKPPROBby8XJfdoWPYP1Lvws=
+			+UgHEo7mWKL29mMJyWn+1/buySiRPWjPmI8YSUZtk5E=
 			</data>
 		</dict>
-		<key>Headers/BotionCaptchaSession.h</key>
+		<key>boc.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ypxtbD2e3NLMO17iwwfOGBSK/oY=
+			njv0kyHVUuwmd3qMbZv3FTD0e+8=
 			</data>
 			<key>hash2</key>
 			<data>
-			CebtAMadpiUgaiOR1R/UZT9X5lTipRkTXE1YslB0crw=
+			zy6UgmPBygHo9uFjQ52ZoXY0XgpBvJMQRgj2dbL0FFw=
 			</data>
 		</dict>
-		<key>Headers/BotionCaptchaSessionConfiguration.h</key>
+		<key>bypass.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			98gzWyO2fXT9P2TVy54+RX1C70g=
+			eEhlKvtfluoLesY52B2WHfbzznE=
 			</data>
 			<key>hash2</key>
 			<data>
-			1nbZLHs96GTTEl+3IPVLl1Dla0CnhOmEudQ8hyrSggM=
+			x1F5kpBm6CWaeKCSDFgBhl8PKmV31AerKZDurfFPgUM=
 			</data>
 		</dict>
-		<key>Modules/module.modulemap</key>
+		<key>en.lproj/BotionCaptcha.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uyZACAvhSONoD6ggTgZtHP0jpVE=
+			HXXfsdTMxlkK4WQinEvCRVpXl6Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			6jBQoEnEBFGBUNbKQbhZgxMapMtjad+8bkYd2AuJLZI=
+			6IMKs2lHQ9Js41KFm+IPwXj9ZL1ByIY61RCKbVVdMaw=
 			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-CN.lproj/BotionCaptcha.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QvNaC4AFAUnqC10tok0Z0AAqwvE=
+			</data>
+			<key>hash2</key>
+			<data>
+			4ZbJ7XlD6GGmGg3GRXY+DxnthoBV42IY3G1X6yqKcAc=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>

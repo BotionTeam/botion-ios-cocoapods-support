@@ -44,9 +44,9 @@ typedef NS_ENUM(NSInteger, BOCDisplayStyle) {
 /// Protocol for remote access to static resources, default is @ “https”.
 @property (nullable, nonatomic, strong) NSString *protocol;
 /// 静态服务地址，默认为空。
-@property (nullable, nonatomic, strong) NSArray<NSString *> *staticServers DEPRECATED_MSG_ATTRIBUTE("No longer available.");
+@property (nullable, nonatomic, strong) NSArray<NSString *> *staticServers;
 /// 接口服务地址，默认为空。
-@property (nullable, nonatomic, strong) NSArray<NSString *> *apiServers DEPRECATED_MSG_ATTRIBUTE("No longer available.");
+@property (nullable, nonatomic, strong) NSArray<NSString *> *apiServers;
 
 /// 界面和状态栏样式，默认 `BOCUserInterfaceStyleLight`。
 /// User interface and statusBar style, which is white by default.

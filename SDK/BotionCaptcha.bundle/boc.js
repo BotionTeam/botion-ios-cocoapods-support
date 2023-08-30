@@ -1,4 +1,4 @@
-"v1.0.2 Botion Inc.";
+"v1.0.4 Botion Inc.";
 
 (function (window) {
     "use strict";
@@ -9,7 +9,7 @@
 var document = window.document;
 var Math = window.Math;
 var head = document.getElementsByTagName("head")[0];
-var TIMEOUT = 10000;
+var TIMEOUT = 3000;
 
 function _Object(obj) {
     this._obj = obj;
@@ -49,8 +49,8 @@ function Config(config) {
 }
 
 Config.prototype = {
-    apiServers: ['bcaptcha.botion.com','bcaptcha.netshunt.com'],
-    staticServers: ["static.botion.com",'static.netshunt.com' ],
+    apiServers: ['bcaptcha.botion.com','bcaptcha.netshunt.com','bcaptcha.botlabpro.com'],
+    staticServers: ["static.botion.com",'static.netshunt.com','static.botlabpro.com'],
     protocol: 'http://',
     typePath: '/load',
     fallback_config: {
